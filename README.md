@@ -1,7 +1,7 @@
 # cpp_examples
 This is a collection of programming examples in C++.
 These examples were developed in Visual Studio 2019 using the default compiler.
-For simplicity to the reader, only the cpp and h files are available from the solution.
+For simplicity to the reader, only the cpp and h files from the solution are posted.
 
 ## folder numbering
 
