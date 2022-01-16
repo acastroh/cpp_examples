@@ -1,5 +1,6 @@
 # description
 Create a bidimensional array to store the 4-rows and 3-columns float matrix below, and display it.
+
 Example:
 | 1.1 | 6.3 | 1 |
 |---|---|---|
