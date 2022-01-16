@@ -2,8 +2,8 @@
 Create a class that represents a table. The diagram below describe the attributes.
 
 
-Table class
-==========================
+| Table class |
+|---|---|---|
 -height: float
 -width: float
 -length: float
