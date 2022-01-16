@@ -1,22 +1,20 @@
 # description
 Create a class that represents a Circle. The diagram below describe its attributes.
 
-Circle
-=============================
--radius: float
--perimeter: float
--area: float
-=============================
-+setRadius(float r): void
-+getRadius() const: float
-+getRadiusInt() const: float
--calculatePerimeter(): void
-+getPerimeter(): float
--calculateArea(): void
-+getArea(): float
-Circle(float r=0)
-~Circle()
-=============================
+|Circle|
+|---|
+|-radius: float|
+|-perimeter: float|
+|-area: float|
+|+setRadius(float r): void|
+|+getRadius() const: float|
+|+getRadiusInt() const: float|
+|-calculatePerimeter(): void|
+|+getPerimeter() const: float|
+|-calculateArea(): void|
+|+getArea() const: float|
+|Circle(float r=0)|
+|~Circle()|
 
 The Circle class has one constructor that receives the radius as input argument.
 
