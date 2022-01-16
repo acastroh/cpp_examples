@@ -7,6 +7,6 @@ For simplicity to the reader, only the cpp and h files from the solution are pos
 
 The numbers in the folder is a suggested order to review the programming examples. However, each programming example is indepedenent of the rest i.e. it does not make a reference to previous examples.
 
-## Importing to Visual Studio
+## importing to Visual Studio
 
 To create a Visual Studio solution from each folder, follow the guide [How to: Create a C++ Project from Existing Code](https://docs.microsoft.com/en-us/cpp/build/how-to-create-a-cpp-project-from-existing-code?view=msvc-170 'How to: Create a C++ Project from Existing Code').
