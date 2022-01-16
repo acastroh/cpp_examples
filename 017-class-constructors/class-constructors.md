@@ -8,7 +8,7 @@ Create a class that represents a Circle. The diagram below describe its attribut
 |-area: float|
 |+setRadius(float r): void|
 |+getRadius() const: float|
-|+getRadiusInt() const: float|
+|+getRadiusInt() const: int|
 |-calculatePerimeter(): void|
 |+getPerimeter() const: float|
 |-calculateArea(): void|
