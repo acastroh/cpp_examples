@@ -8,7 +8,6 @@ Create a class that represents a table. The diagram below describe the attribute
 |-width: float|
 |-length: float|
 |color: string|
-|---|
 |+setHeight(float h) : void|
 |+setWidth(float w) : void|
 |+setLength(float l) : void|
@@ -17,7 +16,6 @@ Create a class that represents a table. The diagram below describe the attribute
 |+getWidth() const : float|
 |+getLength() const : float|
 |+getColor() const : string|
-|---|
 
 The table attributes have an inline initialization of 10, 20, 20, black; respectively to height, width, length, and color.
 
