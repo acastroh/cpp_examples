@@ -3,7 +3,7 @@ Create a class that represents a table. The diagram below describe the attribute
 
 
 | Table class |
-|---|---|---|
+|---|
 
 
 -height: float
