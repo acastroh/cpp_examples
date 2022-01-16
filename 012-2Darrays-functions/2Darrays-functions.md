@@ -1,6 +1,6 @@
 # description
-Ask for 9 float values to be stored in a 3x3 float bidimensional array, display it.
-Then, call a function that receives the matrix as an input parameter and display it transposed.
+Create a program that reads 9 float values from user input to be stored in a 3x3 float bidimensional array, then display it.
+Additionally, call a function that receives the matrix as an input parameter and display it transposed.
 Example:
 
 | 8 | 9.2 | 10 | 
