@@ -29,6 +29,6 @@ Color can only be 'black' and 'brown'. Any other value in setColor is ignored.
 ## Program
 
 Create a program that creates a table object. Display its information.
-Ask for the new heigh, width, length, and color of the table. Update that information in the table object, and display its information.
+Read new height, width, length, and color of the table from user input. Update that information in the table object, and display its information.
  
 
